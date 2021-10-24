@@ -13,7 +13,7 @@
 
 //////////////////////////////
 
-const TOKEN = 'OTAwMTk3NTUxNzM3ODMxNDc1.YW90TQ.sTUPT0jKSCDXEE9J72nH4k68AKw';
+const TOKEN = '';
 const { users } = require('./users.json');
 
 
